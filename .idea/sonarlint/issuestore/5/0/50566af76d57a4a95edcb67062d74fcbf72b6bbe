@@ -1,0 +1,11 @@
+
+V
+java:S1854¶"8Remove this useless assignment to local variable "node".(¤³çæ8Â²ÚŸ™/
+V	java:S106ñ"9Replace this use of System.out or System.err by a logger.(“ÎÊ‰8µİ— ™/
+[	java:S106î"9Replace this use of System.out or System.err by a logger.(ŸŸİøÿÿÿÿ8ìŸ’ ™/
+[	java:S106ó"9Replace this use of System.out or System.err by a logger.(ŸŸİøÿÿÿÿ8Şå ™/
+n
+java:S3776o"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.( ’ñ58Â²ÚŸ™/
+[	java:S106ğ"9Replace this use of System.out or System.err by a logger.(şß«Òÿÿÿÿÿ8ş·– ™/
+[	java:S106õ"9Replace this use of System.out or System.err by a logger.(ŸŸİøÿÿÿÿ8½“ ™/
+[	java:S106ï"9Replace this use of System.out or System.err by a logger.(ï‚ ÿÿÿÿÿ8–Ä• ™/

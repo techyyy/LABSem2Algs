@@ -1,0 +1,24 @@
+
+U	java:S106="9Replace this use of System.out or System.err by a logger.(Ä®üæ8˜Îßù™/
+U
+java:S1197"8Move the array designator from the variable to the type.(á¯»š8˜Îßù™/
+Z
+java:S1197F"8Move the array designator from the variable to the type.(Òë–ûÿÿÿÿ8˜Îßù™/
+Z	java:S106B"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8˜Îßù™/
+Z	java:S106%"9Replace this use of System.out or System.err by a logger.(‘Ú×şÿÿÿÿ8Å¡Íù™/
+Z
+java:S1197"8Move the array designator from the variable to the type.(›íÄñıÿÿÿÿ8˜Îßù™/
+Z
+java:S1197"8Move the array designator from the variable to the type.(ÊşÁıÿÿÿÿ8˜Îßù™/
+w	java:S116"VRename this field "SOURCE_NODE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—øúòıÿÿÿÿ8˜Îßù™/
+U	java:S1068"9Replace this use of System.out or System.err by a logger.(ôäªœ8Å¡Íù™/
+U
+java:S1197 "8Move the array designator from the variable to the type.(¢Î·8˜Îßù™/
+v
+java:S3012J"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(­‡’Í8Äÿ‡ú™/
+Z	java:S106@"9Replace this use of System.out or System.err by a logger.(§õ‹àùÿÿÿÿ8Å¡Íù™/
+Z
+java:S1197S"8Move the array designator from the variable to the type.(÷æşûÿÿÿÿ8Äÿ‡ú™/
+Z	java:S1065"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8˜Îßù™/
+Z	java:S106:"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8˜Îßù™/
+Z	java:S106'"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8˜Îßù™/

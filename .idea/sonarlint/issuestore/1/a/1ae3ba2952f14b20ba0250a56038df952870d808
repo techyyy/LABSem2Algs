@@ -1,0 +1,21 @@
+
+Z
+java:S1197"8Move the array designator from the variable to the type.(Åü¤øÿÿÿÿ8¾Õù™/
+L
+java:S1066H"/Merge this if statement with the enclosing one.(×Ó¸8ÚòØù™/
+Z
+java:S1197"8Move the array designator from the variable to the type.(¦¡ÒÚûÿÿÿÿ8¾Õù™/
+{
+java:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(—Õ“òüÿÿÿÿ8¾Õù™/
+Z
+java:S1197"8Move the array designator from the variable to the type.(üÛ£œıÿÿÿÿ8¾Õù™/
+U
+java:S1197,"8Move the array designator from the variable to the type.(Æ½ê¹8¾Õù™/
+U
+java:S11976"8Move the array designator from the variable to the type.(–â—ì8¾Õù™/
+U
+java:S1197"8Move the array designator from the variable to the type.(óÈÏè8¾Õù™/
+J
+java:S1125/"(Remove the literal "true" boolean value.(ìÊ™ìüÿÿÿÿ8¾Õù™/
+J
+java:S1125:"(Remove the literal "true" boolean value.(ÌÊÿçúÿÿÿÿ8ÚòØù™/

@@ -1,0 +1,8 @@
+
+U
+java:S1197"8Move the array designator from the variable to the type.(Îž¤•8­ó¨Å™/
+U	java:S106""9Replace this use of System.out or System.err by a logger.(¼ùæù8Å„©Å™/
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(Îž¤•8­ó¨Å™/
+{
+java:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(²ƒß»ùÿÿÿÿ8ÝÂäÅ™/
